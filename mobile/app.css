@@ -1,0 +1,13 @@
+.qr-scanner {
+  width: 300;
+  height: 300;
+  horizontal-align: center;
+  margin: 20;
+}
+
+.text-center {
+  text-align: center;
+  font-size: 18;
+  color: #374151;
+  margin-bottom: 20;
+}
